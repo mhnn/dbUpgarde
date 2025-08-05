@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\发版\DbUpgrade\DbUpgrade.pdb
+C:\Users\admin\Desktop\发版\DbUpgrade\appsettings.json
+C:\Users\admin\Desktop\发版\DbUpgrade\db\6-0-medical-EMRRecordField.sql
+C:\Users\admin\Desktop\发版\DbUpgrade\db\readme.md
+C:\Users\admin\Desktop\发版\DbUpgrade\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\发版\DbUpgrade\DbUpgrade.Util.pdb
+C:\Users\admin\Desktop\发版\DbUpgrade\DbUpgrade.Models.pdb
+C:\Users\admin\Desktop\发版\DbUpgrade\DbUpgrade.exe

@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\发版\DbM\DbUpgrade.pdb
+C:\Users\admin\Desktop\发版\DbM\appsettings.json
+C:\Users\admin\Desktop\发版\DbM\db\readme.md
+C:\Users\admin\Desktop\发版\DbM\db\禅道3528--病情观察模板调整\001-0-medical-ObserveTemplate-数据--病情观察模板RecordsCode配置错误变更.sql
+C:\Users\admin\Desktop\发版\DbM\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\发版\DbM\DbUpgrade.Util.pdb
+C:\Users\admin\Desktop\发版\DbM\DbUpgrade.Models.pdb
+C:\Users\admin\Desktop\发版\DbM\DbUpgrade.exe

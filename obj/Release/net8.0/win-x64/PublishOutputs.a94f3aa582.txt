@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\publish\DbUpgrade\DbUpgrade.pdb
+C:\Users\admin\Desktop\publish\DbUpgrade\appsettings.json
+C:\Users\admin\Desktop\publish\DbUpgrade\Changelog.md
+C:\Users\admin\Desktop\publish\DbUpgrade\static\bootstrap.min.css
+C:\Users\admin\Desktop\publish\DbUpgrade\static\bootstrap.min.js
+C:\Users\admin\Desktop\publish\DbUpgrade\static\jquery-3.3.1.slim.min.js
+C:\Users\admin\Desktop\publish\DbUpgrade\static\lang-sql.js
+C:\Users\admin\Desktop\publish\DbUpgrade\static\popper.min.js
+C:\Users\admin\Desktop\publish\DbUpgrade\static\run_prettify.js
+C:\Users\admin\Desktop\publish\DbUpgrade\脚本执行工具V1.x使用方式.pptx
+C:\Users\admin\Desktop\publish\DbUpgrade\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\publish\DbUpgrade\DbUpgrade.Util.pdb
+C:\Users\admin\Desktop\publish\DbUpgrade\DbUpgrade.exe

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DbUpgrade": {
+      "commandName": "Project",
+      // 指定运行时传入的命令行参数，例：
+      // \"D:\\Documents\\WeChat Files\\wxid_uhyo7m41p5k621\\FileStorage\\File\\2025-02\\004-0-medical-是否有可用护理级别.sql\"
+      "commandLineArgs": ""
+    }
+  }
+}
